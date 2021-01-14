@@ -9,7 +9,7 @@ ML Model to predict sales of items in different outlets of Big Mart based on the
 5. Item_MRP
 6. Outlet_Establishment_Year
 7. Outlet_Size
-8.Outlet_Location_Type
+8. Outlet_Location_Type
 
 # Target variable
 Item_Outlet_Sales
