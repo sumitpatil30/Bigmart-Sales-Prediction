@@ -27,5 +27,5 @@ pandas , numpy, seaborn, adaboost, xgboost,
  6. AdaBoosting                    - 1216.36386353516
  7. AdaBoosting after tuning       - 1199.66740647093
 
-Minimum RMSE score is for  Gradient Boosting after hyperparameter tuning
-This has resulted in top 10.6% of all participants for Analytics Vidhya Hackathon on Big Mart Sales
+ Minimum RMSE score is for  Gradient Boosting after hyperparameter tuning
+ This has resulted in top 10.6% of all participants for Analytics Vidhya Hackathon on Big Mart Sales
